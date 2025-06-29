@@ -1,10 +1,1 @@
-socks5://27f7b9d0ad70c0028d80:79c055eb77859941@gw.dataimpulse.com:824
-socks5://27f7b9d0ad70c0028d80:79c055eb77859941@gw.dataimpulse.com:824
-socks5://27f7b9d0ad70c0028d80:79c055eb77859941@gw.dataimpulse.com:824
-socks5://27f7b9d0ad70c0028d80:79c055eb77859941@gw.dataimpulse.com:824
-socks5://27f7b9d0ad70c0028d80:79c055eb77859941@gw.dataimpulse.com:824
-socks5://27f7b9d0ad70c0028d80:79c055eb77859941@gw.dataimpulse.com:824
-socks5://27f7b9d0ad70c0028d80:79c055eb77859941@gw.dataimpulse.com:824
-socks5://27f7b9d0ad70c0028d80:79c055eb77859941@gw.dataimpulse.com:824
-socks5://27f7b9d0ad70c0028d80:79c055eb77859941@gw.dataimpulse.com:824
-socks5://27f7b9d0ad70c0028d80:79c055eb77859941@gw.dataimpulse.com:824
+your proxy
